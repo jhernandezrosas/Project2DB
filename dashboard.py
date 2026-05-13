@@ -93,7 +93,7 @@ tabs = st.tabs(["Intro", "Table 1", "Table 2", "Table 3", "Table 4", "Table 5"])
 with tabs[0]:
     st.header("Project 2")
     st.subheader("Computer Science and Engineering Majors Growth from 2000 to 2024.")
-    st.image("/Users/jennyferhernandez/Desktop/Project2DB/images/compsciengin.webp")
+    st.image("images/compsciengin.webp")
     col1, col2, col3 = st.columns(3)
 
     with col1:
